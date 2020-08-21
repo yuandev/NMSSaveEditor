@@ -1,5 +1,20 @@
 # Change Log
 
+## 1.6.14 - Update (7 August 2020)
+
+- Updated items list and name mappings for NMS version 2.61.
+- Added missing procedural freighter tech.
+
+## 1.6.13 - Update (19 July 2020)
+
+- Updated items list and name mappings for NMS version 2.6 (Desolation).
+- Added support for procedural freighter tech.
+
+## 1.6.12 - Update (12 April 2020)
+
+- Updated items list and name mappings for NMS version 2.41 (Exo Mech).
+- Added support for minotaur exo mech.
+
 ## 1.6.11 - Update (26 February 2020)
 
 - Fixed issue when changing a ship type involving living ships.
